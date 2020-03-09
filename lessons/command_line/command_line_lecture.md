@@ -198,6 +198,8 @@ ls -lh
 
 > What changed?
 
+The filesize was rounded and displayed in K or B, depending on the size of the file.
+
 If instead copying we just want to change the name of a file, we can do:
 
 
